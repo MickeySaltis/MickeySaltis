@@ -16,7 +16,7 @@
 [![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-000?&logo=PostgreSQL&logoColor=4169E1)](https://www.postgresql.org)
 
 [![Git](https://img.shields.io/badge/-Git-000?&logo=Git&logoColor=F05032)](https://git-scm.com/)
-[![Linux](https://img.shields.io/badge/-Linux-000?&logo=Linux&logoColor=FCC624)](https://www.linux.org/)
+[![Linux](https://img.shields.io/badge/-Linux-000?&logo=Linux&logoColor=FFFFFF)](https://www.linux.org/)
 [![Docker](https://img.shields.io/badge/-Docker-000?&logo=Docker&logoColor=2196f3)](https://aws.amazon.com/fr/docker/)
 
 ## Connaissances:
