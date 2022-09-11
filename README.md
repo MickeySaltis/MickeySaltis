@@ -17,12 +17,13 @@
 
 [![Git](https://img.shields.io/badge/-Git-000?&logo=Git&logoColor=F05032)](https://git-scm.com/)
 [![Linux](https://img.shields.io/badge/-Linux-000?&logo=Linux&logoColor=FFFFFF)](https://www.linux.org/)
-[![Docker](https://img.shields.io/badge/-Docker-000?&logo=Docker&logoColor=2196f3)](https://aws.amazon.com/fr/docker/)
+[![Docker](https://img.shields.io/badge/-Docker-000?&logo=Docker&logoColor=2196F3)](https://aws.amazon.com/fr/docker/)
 
 ## Connaissances:
 
 [![Symfony](https://img.shields.io/badge/-Symfony-000?&logo=Symfony&logoColor=FFF)](https://symfony.com)
 [![Angular](https://img.shields.io/badge/-Angular-000?&logo=Angular&logoColor=FF5131)](https://www.50a.fr/0/angular)
+[![Wordpress](https://img.shields.io/badge/-Wordpress-000?&logo=Wordpress&logoColor=2196F3)](https://www.seomix.fr/wordpress/)
 
 [![Figma](https://img.shields.io/badge/-Figma-000?&logo=Figma&logoColor=F24E1E)](https://www.figma.com/)
 
