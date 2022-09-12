@@ -31,3 +31,6 @@
 
 ![Website](https://img.shields.io/website?up_color=red&up_message=%23ProjetMusic%20%28stand-by%29&url=https%3A%2F%2Ftraversemusic.000webhostapp.com%2Findex.php%3Fcontroller%3Ddefault%26action%3Daccueil%23roulette)
 
+![Website](https://img.shields.io/website?up_color=red&up_message=%23ProjetEvenement%20%28SymfonyEnCour%29&url=https%3A%2F%2Ftraversemusic.000webhostapp.com%2Findex.php%3Fcontroller%3Ddefault%26action%3Daccueil%23roulette)
+
+
