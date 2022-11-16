@@ -23,15 +23,12 @@
 
 [![Symfony](https://img.shields.io/badge/-Symfony-000?&logo=Symfony&logoColor=FFF)](https://symfony.com)
 [![Angular](https://img.shields.io/badge/-Angular-000?&logo=Angular&logoColor=FF5131)](https://www.50a.fr/0/angular)
-[![React](https://img.shields.io/badge/-React-000?&logo=React&logoColor=FFF)](https://fr.reactjs.org/)
+[![React](https://img.shields.io/badge/-React-000?&logo=React&logoColor=6ff9ff)](https://fr.reactjs.org/)
 [![Wordpress](https://img.shields.io/badge/-Wordpress-000?&logo=Wordpress&logoColor=2196F3)](https://www.seomix.fr/wordpress/)
 
 [![Figma](https://img.shields.io/badge/-Figma-000?&logo=Figma&logoColor=F24E1E)](https://www.figma.com/)
 
 ### Sites:
 
-![Website](https://img.shields.io/website?up_color=red&up_message=%23ProjetMusic%20%28stand-by%29&url=https%3A%2F%2Ftraversemusic.000webhostapp.com%2Findex.php%3Fcontroller%3Ddefault%26action%3Daccueil%23roulette)
-
-![Website](https://img.shields.io/website?up_color=red&up_message=%23ProjetEvenement%20%28SymfonyEnCour%29&url=https%3A%2F%2Ftraversemusic.000webhostapp.com%2Findex.php%3Fcontroller%3Ddefault%26action%3Daccueil%23roulette)
 
 
