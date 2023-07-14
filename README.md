@@ -25,6 +25,7 @@
 [![Symfony](https://img.shields.io/badge/-Symfony-000?&logo=Symfony&logoColor=FFF)](https://symfony.com)
 [![Angular](https://img.shields.io/badge/-Angular-000?&logo=Angular&logoColor=FF5131)](https://www.50a.fr/0/angular)
 [![React](https://img.shields.io/badge/-React-000?&logo=React&logoColor=6ff9ff)](https://fr.reactjs.org/)
+[![Django](https://img.shields.io/badge/-Django-000?&logo=Django&logoColor=0C4B33)]([https://fr.reactjs.org/](https://docs.djangoproject.com/fr/4.2/intro/))
 [![Wordpress](https://img.shields.io/badge/-Wordpress-000?&logo=Wordpress&logoColor=2196F3)](https://www.seomix.fr/wordpress/)
 
 [![Figma](https://img.shields.io/badge/-Figma-000?&logo=Figma&logoColor=F24E1E)](https://www.figma.com/)
